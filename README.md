@@ -29,5 +29,9 @@ An  Ecommerce site using django.
 25.Integrating facebook like ,comments and share in django</br>
 26.Integrating paytm gateway</br>
 27.Creating  Product search feature</br>
+<h1>Running the project</h1></br>
+Run:</br>
+python mange.py runserver</br>
+IN the terminal</br>
 
 
