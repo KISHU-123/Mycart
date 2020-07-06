@@ -2,7 +2,7 @@
 An  Ecommerce site using django.
 <h1>A django Project</h1>
 Development Steps:
-1.Project setup
+1.Project setup</br>
 2.Creating apps
 3.Adding bootstrap,templates and static files
 4.Creating models
