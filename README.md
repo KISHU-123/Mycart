@@ -1,6 +1,5 @@
 # Mycart
 An  Ecommerce site using django.
-<h1>A django Project</h1>
 <h2>Development Steps:</h2>
 1.Project setup</br>
 2.Creating apps</br>
@@ -29,9 +28,11 @@ An  Ecommerce site using django.
 25.Integrating facebook like ,comments and share in django</br>
 26.Integrating paytm gateway</br>
 27.Creating  Product search feature</br>
-<h1>Running the project</h1></br>
+<h1>Running the project</h1>
 Run:</br>
 python mange.py runserver</br>
 IN the terminal</br>
+<h3>For the paytm integration to work</h3>
+Add your own MERCHANT_KEY and MID in shop/views.checkout
 
 
